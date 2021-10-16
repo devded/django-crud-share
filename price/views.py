@@ -1,14 +1,21 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
-
+from drf_yasg.utils import swagger_auto_schema
+from price.schema import StartechPriceApiSchemaView
 from price.services.startech import StartechPriceService
 
 
 class StartechPriceApiView(APIView):
-    def get(self, request):
-        #return Response("Hello")
-        #startech_price = StartechPriceService.get_price()
-        return Response("startech_price")
+    @swagger_auto_schema(
+        tags=StartechPriceApiSchemaView.tags,
+        request_body= StartechPriceApiSchemaView.request_schema,
+        responses=StartechPriceApiSchemaView.responses,
+    )
+
+    # def get(self, request):
+    #     #return Response("Hello")
+    #     #startech_price = StartechPriceService.get_price()
+    #     return Response("startech_price")
 
     def post(self, request):
         product_name = request.data.get('product_name')
