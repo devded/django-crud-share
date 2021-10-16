@@ -41,9 +41,9 @@ for name, price, url in zip(clean_names, clean_prices, clean_urls):
 print(data_list)
 
 class StartechPriceService:
-    def get_price():
+    def get_price(product_name):
         browser = mechanicalsoup.StatefulBrowser()
-        browser.open("https://cutt.ly/FE8ktst")
+        browser.open(f"https://www.startech.com.bd/product/search?search={product_name}")
         raw_names = browser.page.find_all("h4", class_="p-item-name")
 
         raw_prices = browser.page.find_all("div", class_="p-item-price")
