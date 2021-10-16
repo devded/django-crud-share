@@ -22,7 +22,7 @@ class StartechPriceApiSchemaView:
                     "error": Schema(type=openapi.TYPE_BOOLEAN, default="False"),
                     "message": Schema(
                         type=openapi.TYPE_STRING,
-                        default="Personal record detail returned successfully",
+                        default="Startech product search list returned successfully",
                     ),
                     "data": Schema(type=openapi.TYPE_OBJECT),
                 },
