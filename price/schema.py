@@ -14,7 +14,7 @@ class StartechPriceApiSchemaView:
     )
     responses = {
         status.HTTP_200_OK: openapi.Response(
-            description="User Record Detail View",
+            description="Startech Product Search List",
             schema=Schema(
                 title="Success Response Example",
                 type=openapi.TYPE_OBJECT,
@@ -37,7 +37,7 @@ class StartechPriceApiSchemaView:
                     "error": Schema(type=openapi.TYPE_BOOLEAN, default="True"),
                     "message": Schema(
                         type=openapi.TYPE_STRING,
-                        default="Could not retrieve personal record detail",
+                        default="Could not retrieve startech product search list",
                     ),
                     "data": Schema(type=openapi.TYPE_OBJECT, default=None),
                 },
