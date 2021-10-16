@@ -6,3 +6,4 @@ sqlparse==0.4.2
 gunicorn
 django-heroku
 mechanicalsoup
+drf_yasg
