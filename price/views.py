@@ -8,15 +8,9 @@ from price.services.startech import StartechPriceService
 class StartechPriceApiView(APIView):
     @swagger_auto_schema(
         tags=StartechPriceApiSchemaView.tags,
-        request_body= StartechPriceApiSchemaView.request_schema,
+        request_body=StartechPriceApiSchemaView.request_schema,
         responses=StartechPriceApiSchemaView.responses,
     )
-
-    # def get(self, request):
-    #     #return Response("Hello")
-    #     #startech_price = StartechPriceService.get_price()
-    #     return Response("startech_price")
-
     def post(self, request):
         product_name = request.data.get('product_name')
         startech_price = StartechPriceService.get_price(product_name)
