@@ -3,8 +3,10 @@ import mechanicalsoup
 
 class StartechPriceService:
     def get_price(product_name):
+        site_url = "https://www.startech.com.bd/product/search?search="
+        search_url = f"{site_url}{product_name}"
         browser = mechanicalsoup.StatefulBrowser()
-        browser.open(f"https://www.startech.com.bd/product/search?search={product_name}")
+        browser.open(search_url)
         raw_names = browser.page.find_all("h4", class_="p-item-name")
         raw_prices = browser.page.find_all("div", class_="p-item-price")
 
