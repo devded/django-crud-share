@@ -4,5 +4,5 @@ from mockup.views import TestMockApiView, TrainingPlanApiView
 
 urlpatterns = [
      path('', TestMockApiView.as_view(), name="base-api"),
-     path('/training-plan', TrainingPlanApiView.as_view(), name="training-plan"),
+     path('training-plan', TrainingPlanApiView.as_view(), name="training-plan"),
 ]
