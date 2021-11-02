@@ -3,7 +3,7 @@
     "message": "Simulated plan successfully",
     "data": [
         {
-            "date": "2021-04-01",
+            "date": "2021-11-01",
             "session_name": "VO2max Microbursts",
             "padding_time": 0,
             "duration": 45.0,
@@ -21,11 +21,11 @@
             "commute_pss": 0,
             "week_type": "BUILD",
             "week_start_date": "2021-03-29",
-            "week_end_date": "2021-04-04",
+            "week_end_date": "2021-11-04",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 5,
                 6
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "date": "2021-04-02",
+            "date": "2021-11-02",
             "session_name": "Endurance Ramp",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -131,11 +131,11 @@
             "commute_pss": 0,
             "week_type": "BUILD",
             "week_start_date": "2021-03-29",
-            "week_end_date": "2021-04-04",
+            "week_end_date": "2021-11-04",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 2,
                 3
@@ -223,7 +223,7 @@
             ]
         },
         {
-            "date": "2021-04-03",
+            "date": "2021-11-03",
             "session_name": "Endurance Ramp",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -241,11 +241,11 @@
             "commute_pss": 0,
             "week_type": "BUILD",
             "week_start_date": "2021-03-29",
-            "week_end_date": "2021-04-04",
+            "week_end_date": "2021-11-04",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 2,
                 3
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "date": "2021-04-04",
+            "date": "2021-11-04",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -351,11 +351,11 @@
             "commute_pss": 0,
             "week_type": "BUILD",
             "week_start_date": "2021-03-29",
-            "week_end_date": "2021-04-04",
+            "week_end_date": "2021-11-04",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -440,7 +440,7 @@
             ]
         },
         {
-            "date": "2021-04-05",
+            "date": "2021-11-05",
             "session_name": "VO2max Microbursts",
             "padding_time": 0,
             "duration": 45.0,
@@ -457,12 +457,12 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 5,
                 6
@@ -550,7 +550,7 @@
             ]
         },
         {
-            "date": "2021-04-06",
+            "date": "2021-11-06",
             "session_name": "Endurance Ramp",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -567,12 +567,12 @@
             "training_pss_final_value": 50.41,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 2,
                 3
@@ -660,7 +660,7 @@
             ]
         },
         {
-            "date": "2021-04-07",
+            "date": "2021-11-07",
             "session_name": "Endurance Ramp",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -677,12 +677,12 @@
             "training_pss_final_value": 50.41,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 2,
                 3
@@ -770,7 +770,7 @@
             ]
         },
         {
-            "date": "2021-04-08",
+            "date": "2021-11-08",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -787,12 +787,12 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -877,7 +877,7 @@
             ]
         },
         {
-            "date": "2021-04-09",
+            "date": "2021-11-09",
             "session_name": "Endurance Ramp",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -894,12 +894,12 @@
             "training_pss_final_value": 50.41,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 2,
                 3
@@ -987,7 +987,7 @@
             ]
         },
         {
-            "date": "2021-04-10",
+            "date": "2021-11-10",
             "session_name": "Basic Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -1004,12 +1004,12 @@
             "training_pss_final_value": 32.49,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 1
             ],
@@ -1096,7 +1096,7 @@
             ]
         },
         {
-            "date": "2021-04-11",
+            "date": "2021-11-11",
             "session_name": "Basic Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -1113,12 +1113,12 @@
             "training_pss_final_value": 32.49,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-05",
-            "week_end_date": "2021-04-11",
+            "week_start_date": "2021-11-05",
+            "week_end_date": "2021-11-11",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 1
             ],
@@ -1205,7 +1205,7 @@
             ]
         },
         {
-            "date": "2021-04-12",
+            "date": "2021-11-12",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -1222,12 +1222,12 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -1312,7 +1312,7 @@
             ]
         },
         {
-            "date": "2021-04-13",
+            "date": "2021-11-13",
             "session_name": "Basic Endurance",
             "padding_time": 0,
             "duration": 45.0,
@@ -1329,12 +1329,12 @@
             "training_pss_final_value": 32.49,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 1
             ],
@@ -1421,7 +1421,7 @@
             ]
         },
         {
-            "date": "2021-04-14",
+            "date": "2021-11-14",
             "session_name": "VO2max Microbursts",
             "padding_time": 0,
             "duration": 45.0,
@@ -1438,12 +1438,12 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 5,
                 6
@@ -1531,7 +1531,7 @@
             ]
         },
         {
-            "date": "2021-04-15",
+            "date": "2021-11-15",
             "session_name": "Basic Endurance",
             "padding_time": 0,
             "duration": 45.0,
@@ -1548,12 +1548,12 @@
             "training_pss_final_value": 32.49,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": [
                 1
             ],
@@ -1640,7 +1640,7 @@
             ]
         },
         {
-            "date": "2021-04-16",
+            "date": "2021-11-16",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -1657,12 +1657,12 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -1747,7 +1747,7 @@
             ]
         },
         {
-            "date": "2021-04-17",
+            "date": "2021-11-17",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -1764,12 +1764,12 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -1854,7 +1854,7 @@
             ]
         },
         {
-            "date": "2021-04-18",
+            "date": "2021-11-18",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -1871,12 +1871,12 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "RECOVERY",
-            "week_start_date": "2021-04-12",
-            "week_end_date": "2021-04-18",
+            "week_start_date": "2021-11-12",
+            "week_end_date": "2021-11-18",
             "block_no": 1,
             "no_of_weeks": 3,
             "block_start_date": "2021-03-29",
-            "block_end_date": "2021-04-18",
+            "block_end_date": "2021-11-18",
             "key_zones": null,
             "time_in_power_zones": [
                 {
@@ -1961,7 +1961,7 @@
             ]
         },
         {
-            "date": "2021-04-19",
+            "date": "2021-11-19",
             "session_name": "Zone 3 3x 10'",
             "padding_time": 0,
             "duration": 50.0,
@@ -1978,11 +1978,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -2070,7 +2070,7 @@
             ]
         },
         {
-            "date": "2021-04-20",
+            "date": "2021-11-20",
             "session_name": "Steady Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -2087,11 +2087,11 @@
             "training_pss_final_value": 40.96,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -2179,7 +2179,7 @@
             ]
         },
         {
-            "date": "2021-04-21",
+            "date": "2021-11-21",
             "session_name": "Zone 3 3x 10'",
             "padding_time": 0,
             "duration": 50.0,
@@ -2196,11 +2196,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -2288,7 +2288,7 @@
             ]
         },
         {
-            "date": "2021-04-22",
+            "date": "2021-11-22",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -2305,11 +2305,11 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -2395,7 +2395,7 @@
             ]
         },
         {
-            "date": "2021-04-23",
+            "date": "2021-11-23",
             "session_name": "Zone 3 3x 10'",
             "padding_time": 0,
             "duration": 50.0,
@@ -2412,11 +2412,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -2504,7 +2504,7 @@
             ]
         },
         {
-            "date": "2021-04-24",
+            "date": "2021-11-24",
             "session_name": "Steady Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -2521,11 +2521,11 @@
             "training_pss_final_value": 40.96,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -2613,7 +2613,7 @@
             ]
         },
         {
-            "date": "2021-04-25",
+            "date": "2021-11-25",
             "session_name": "Steady Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -2630,11 +2630,11 @@
             "training_pss_final_value": 40.96,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-19",
-            "week_end_date": "2021-04-25",
+            "week_start_date": "2021-11-19",
+            "week_end_date": "2021-11-25",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -2722,7 +2722,7 @@
             ]
         },
         {
-            "date": "2021-04-26",
+            "date": "2021-11-26",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -2739,11 +2739,11 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -2829,7 +2829,7 @@
             ]
         },
         {
-            "date": "2021-04-27",
+            "date": "2021-11-27",
             "session_name": "Zone 3 3x 10'",
             "padding_time": 0,
             "duration": 50.0,
@@ -2846,11 +2846,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -2938,7 +2938,7 @@
             ]
         },
         {
-            "date": "2021-04-28",
+            "date": "2021-11-28",
             "session_name": "Steady Endurance",
             "padding_time": 15.0,
             "duration": 60.0,
@@ -2955,11 +2955,11 @@
             "training_pss_final_value": 40.96,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -3047,7 +3047,7 @@
             ]
         },
         {
-            "date": "2021-04-29",
+            "date": "2021-11-29",
             "session_name": "Zone 3 3x 10'",
             "padding_time": 0,
             "duration": 50.0,
@@ -3064,11 +3064,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -3156,7 +3156,7 @@
             ]
         },
         {
-            "date": "2021-04-30",
+            "date": "2021-11-30",
             "session_name": "Recovery Day",
             "padding_time": 0,
             "duration": 0.0,
@@ -3173,11 +3173,11 @@
             "training_pss_final_value": 0.0,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -3280,11 +3280,11 @@
             "training_pss_final_value": 59.29,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -3389,11 +3389,11 @@
             "training_pss_final_value": 40.96,
             "commute_pss": 0,
             "week_type": "BUILD",
-            "week_start_date": "2021-04-26",
+            "week_start_date": "2021-11-26",
             "week_end_date": "2021-05-02",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -3502,7 +3502,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -3611,7 +3611,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -3718,7 +3718,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -3827,7 +3827,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -3936,7 +3936,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 3
@@ -4045,7 +4045,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -4152,7 +4152,7 @@
             "week_end_date": "2021-05-09",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 2
@@ -4261,7 +4261,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 1
@@ -4370,7 +4370,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 1
@@ -4479,7 +4479,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -4586,7 +4586,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": [
                 5,
@@ -4696,7 +4696,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -4803,7 +4803,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
@@ -4910,7 +4910,7 @@
             "week_end_date": "2021-05-16",
             "block_no": 2,
             "no_of_weeks": 4,
-            "block_start_date": "2021-04-19",
+            "block_start_date": "2021-11-19",
             "block_end_date": "2021-05-16",
             "key_zones": null,
             "time_in_power_zones": [
