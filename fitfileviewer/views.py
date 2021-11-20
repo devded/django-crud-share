@@ -21,7 +21,7 @@ class FitFileViewerServerCheckView(APIView):
         if 'file' in request.data:
             file_extension = pathlib.Path('my_file.txt').suffix
             print("File Extension: ", file_extension)
-            if file_extension == '.fit':
+            if file_extension == '.fit' or '.txt':
                 print("File Detect")
                 f = request.data['file']
                 content_type = f.content_type
