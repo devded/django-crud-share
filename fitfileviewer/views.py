@@ -9,7 +9,8 @@ import json
 
 import pathlib
 
-from fitfileviewer.utils import get_file_id_data
+from fitfileviewer.utils import get_file_id_data, get_record_data, get_event_data, get_session_data, get_activity_data
+
 
 class FitFileViewerServerCheckView(APIView):
     
@@ -24,14 +25,26 @@ class FitFileViewerServerCheckView(APIView):
             if file_extension == '.fit' or '.txt':
                 print("File Detect")
                 f = request.data['file']
-                content_type = f.content_type
-                print(content_type)
                 fitfile = fitparse.FitFile(f)
-                result = get_file_id_data(fitfile)
-                file_id = json.loads(result)
+
+                file_id_raw = get_file_id_data(fitfile)
+                file_id_data = json.loads(file_id_raw)
+                record_raw = get_record_data(fitfile)
+                record_data = json.loads(record_raw)
+                event_raw = get_event_data(fitfile)
+                event_data = json.loads(event_raw)
+                session_raw = get_session_data(fitfile)
+                session_data = json.loads(session_raw)
+                activity_raw = get_activity_data(fitfile)
+                activity_data = json.loads(activity_raw)
+
                 data = {
                     "status": "ok",
-                    "file_id": file_id,
+                    "file_id": file_id_data,
+                    "record": record_data,
+                    "event": event_data,
+                    "session": session_data,
+                    "activity": activity_data,
                 }
                 return Response(data)
             else:
