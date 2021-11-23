@@ -131,7 +131,7 @@ def get_activity_data(fitfile):
         (
             activity.get_value("timestamp").strftime("%Y-%m-%d %H:%M:%S"),
             activity.get_value("total_timer_time"),
-            activity.get_value("local_timestamp"),
+            activity.get_value("local_timestamp").strftime("%Y-%m-%d %H:%M:%S"),
             activity.get_value("num_sessions"),
             activity.get_value("type"),
             activity.get_value("event"),
