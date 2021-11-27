@@ -12,13 +12,18 @@ import pathlib
 from fitfileviewer.utils import get_file_id_data, get_record_data, get_event_data, get_session_data, get_activity_data
 
 
+class WakeUpView(APIView):
+    def get(self, request):
+        return Response({"message": "Server Wakeup"})
+
+
 class FitFileViewerServerCheckView(APIView):
-    
     # def get(self, request, format=None):
     #     return Response({"status": "ok"})
-    
-    parser_class = (FileUploadParser, )
-    def post(self, request, format = None):
+
+    parser_class = (FileUploadParser,)
+
+    def post(self, request, format=None):
         if 'file' in request.data:
             file_extension = pathlib.Path('my_file.txt').suffix
             print("File Extension: ", file_extension)
@@ -53,5 +58,3 @@ class FitFileViewerServerCheckView(APIView):
         if 'file' not in request.data:
             raise ParseError("Empty content")
             return Response({"status": "Failed"})
-
-        
